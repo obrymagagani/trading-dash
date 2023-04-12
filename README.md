@@ -1,1 +1,1 @@
-# trading-dash
+# trading-dashboard to check on finances
